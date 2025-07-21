@@ -3,7 +3,6 @@
       <p><strong>First Name:</strong> {{ data?.first }}</p>
       <p><strong>Last Name:</strong> {{ data?.last }}</p>
       <p><strong>Email:</strong> {{ data?.email }}</p>
-        <p><strong>Phone Number:</strong> {{ data?.Number }}</p>
       <p><strong>City:</strong> {{ data?.city?.name }} ({{ data?.city?.code }})</p>
     </Panel>
 
