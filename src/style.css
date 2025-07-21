@@ -65,7 +65,7 @@ button:focus-visible {
 #app {
   width: 100%;
   margin: 0 auto;
-  text-align: left;
+  text-align: center;
 }
 
 .pb-3 {
