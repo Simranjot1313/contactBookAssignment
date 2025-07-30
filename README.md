@@ -24,7 +24,7 @@ Vite
 
 JavaScript 
 
-HTML5 & CSS3
+HTML & CSS
 
 **Contact book**
 
