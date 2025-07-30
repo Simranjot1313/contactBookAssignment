@@ -26,6 +26,9 @@ JavaScript
 
 HTML & CSS
 
+git clone https://github.com/Simranjot1313/contactBookAssignment
+cd Contact Book
+
 **Contact book**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c6c0826-9355-4608-ae65-35f2d3c56a00" />    
