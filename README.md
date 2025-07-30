@@ -26,7 +26,11 @@ JavaScript
 
 HTML & CSS
 
-git clone https://github.com/Simranjot1313/contactBookAssignment
+ #Installation
+ 
+**Clone the repository**
+
+git clone https://github.com/Simranjot1313/contactBookAssignment        
 cd Contact Book
 
 **Contact book**
